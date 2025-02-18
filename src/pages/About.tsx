@@ -67,7 +67,7 @@ const About = () => {
             </div>
             <div className="relative h-96">
               <img
-                src="https://images.unsplash.com/photo-1548839140-29a749e1cf4d?ixlib=rb-4.0.3&auto=format&fit=crop&w=800&q=80"
+                src="https://files.catbox.moe/6yl2zc.jpg"
                 alt="Natural spring"
                 className="w-full h-full object-cover rounded-lg shadow-lg"
               />
