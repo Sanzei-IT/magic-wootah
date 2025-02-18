@@ -4,7 +4,7 @@ import { MessageCircle, Sparkles, Star } from 'lucide-react';
 
 const product = {
   name: 'Magic Water',
-  price: 'Rp3.000',
+  price: 'Rp2.000',
   image: 'https://files.catbox.moe/cpenvb.jpg',
   description: 'Nikmati kesegaran air alami yang sempurna! Magic Water, sumber hidrasi terbaik yang diproses dengan teknologi canggih untuk menjaga kesegaran dan keseimbangan mineral yang ideal. Dapatkan energi tambahan dan rasa segar yang membuatmu lebih kuat, fokus, dan siap menghadapi tantangan! Dengan Magic Water, setiap tegukan memberi kesegaran yang optimal dan mendukung kesehatan tubuhmu sepanjang hari.',
   features: [
